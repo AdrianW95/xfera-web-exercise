@@ -1,0 +1,24 @@
+/*
+	This is some auxiliary CSS used to make the app more unopinionated,
+	feel free to ditch it entirely!
+*/
+
+/* Class for centering the greeting text on the screen */
+.center {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+
+	width: 100vw;
+	height: 100vh;
+
+	overflow: hidden;
+}
+
+.center p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 24px;
+
+	text-align: center;
+}

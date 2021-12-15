@@ -1,0 +1,12 @@
+/*
+	This is some auxiliary CSS used to make the app more unopinionated,
+	feel free to ditch it entirely!
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;700&display=swap');
+
+/* CSS reset */
+html, body, section, main, p, h1, h2, h3 {
+	margin: 0;
+	padding: 0;
+}

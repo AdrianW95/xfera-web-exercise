@@ -1,0 +1,64 @@
+{
+	"coins": [
+		{
+			"id": "one_coin",
+			"name": "OneCoin",
+			"value": 170,
+			"dateCreated": "2017-11-17"
+		},
+		{
+			"id": "leet_coin",
+			"name": "L337C01N",
+			"value": 203,
+			"dateCreated": "2011-01-24"
+		},
+		{
+			"id": "mp3_coin",
+			"name": "MP3C",
+			"value": "09",
+			"dateCreated": "2019-07-30"
+		},
+		{
+			"id": "lithium",
+			"name": "Lithium",
+			"value": 237,
+			"dateCreated": "2002-07-21"
+		},
+		{
+			"id": "parse_me",
+			"name": "Parse-me",
+			"value": 31,
+			"dateCreated": "2014-06-16"
+		},
+		{
+			"id": "octa_coin",
+			"name": "OctaCoin",
+			"value": 54,
+			"dateCreated": "2016-03-25"
+		},
+		{
+			"id": "un_coin",
+			"name": "UNCoin",
+			"value": 11,
+			"dateCreated": "2016-09-02"
+		},
+		{
+			"id": "lucky_charm",
+			"name": "Lucky7Charm",
+			"value": 133,
+			"dateCreated": "2018-01-03"
+		},
+		{
+			"id": "double_coin",
+			"name": "Dou2le",
+			"value": 25,
+			"dateCreated": "2020-04-16"
+		},
+		{
+			"id": "test_coin",
+			"name": "TestCoin",
+			"value": 89,
+			"dateCreated": "2021-12-28"
+		}
+	]
+}
